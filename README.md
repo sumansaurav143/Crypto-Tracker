@@ -1,7 +1,7 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
 ## Demo
-#### Here is a working live demo :  
+#### Here is a working live demo :  https://sumansaurav143.github.io/Crypto-Tracker/
 
 ## Built with 
 
